@@ -18,7 +18,7 @@ To write a C Program to perform bitwise AND operation and bitwise OR operation o
 #include <stdio.h>
 
 int main() {
-    int a = 21, b = 22;  // given integers
+    int a = 21, b = 22;  
     int andResult, orResult;
 
     andResult = a & b;   // Bitwise AND
